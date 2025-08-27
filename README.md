@@ -1,21 +1,87 @@
-# Awesome Nano-Banana 🍌✨  
-A curated list of resources, articles, and tools related to **Google's Nano-Banana** model — the mysterious AI that first appeared in **LM Arena** battles and is now officially part of **Google Gemini** as *Gemini-2.5 Flash Image*.  
+# Awesome Nano-Banana
 
-> Contributions welcome! Feel free to open issues or PRs to expand this list.
+> A curated list of resources, papers, blog posts, tutorials, and demos related to Google’s Nano-Banana AI image generation & editing model.  
+> Contributions welcome! 🎉
+
+---
+
+## 🌟 Introduction
+
+[Nano-Banana](https://www.axios.com/2025/08/26/nano-banana-google-ai-images) is Google DeepMind’s latest multimodal image generation and editing model, part of the Gemini 2.5 Flash Image family. It’s recognized for its unprecedented identity consistency, realism, and creative speed, quickly rising to prominence on platforms like [LM Arena](https://lmarena.ai/) and now fully integrated within the Gemini app and API.[web:1][web:2][web:4][web:5][web:6]
 
 ---
 
-## 📖 Articles & Blog Posts
+## 📚 Official Resources
 
-- [Axios — Google debuts Nano-Banana as Gemini 2.5 Flash Image](https://www.axios.com/2025/08/26/nano-banana-google-ai-images?utm_source=chatgpt.com)  
-- [DataLearner — From mystery to Gemini: The story of Nano-Banana](https://www.datalearner.com/blog/1051756024909373?utm_source=chatgpt.com)  
-- [AI-Bot.cn — Why Nano-Banana stunned the LM Arena](https://ai-bot.cn/nano-banana/?utm_source=chatgpt.com)  
-- [Flux AI Blog — Introducing Google Nano-Banana: Redefining creativity](https://flux-ai.io/tw/blog/detail/Introducing-Google-Nano-Banana-The-Mysterious-AI-Image-Generator-Redefining-Creativity-2f903e07e58d/?utm_source=chatgpt.com)  
-- [PhotoGrid Blog — Nano-Banana for social media and creative workflows](https://www.photogrid.app/blog/tw/nano-banana/?utm_source=chatgpt.com)  
-- [AI Facefy — Meet Google Nano-Banana: 2025’s most talked about AI generator](https://aifacefy.com/cn/blog/detail/Meet-Google-Nano-Banana-2025-s-Most-Talked-About-AI-Image-Generator-2d1594bbae54/?utm_source=chatgpt.com)  
-- [Sohu Tech — Google’s Nano-Banana model explained](https://www.sohu.com/a/929128410_211762?utm_source=chatgpt.com)  
+- [Google Gemini AI Blog](https://blog.google/technology/ai/) — Official Gemini updates.[web:1]
+- [Nano-Banana: Gemini App Release](https://gemini.google.com/) — Try editing & generation in Gemini web and mobile.[web:5]
+- [Gemini 2.5 Flash Image Model @ Replicate](https://replicate.com/google/nano-banana) — Technical features and API access.[web:6]
+- [ZDNet: Google DeepMind confirms Nano-Banana](https://www.zdnet.com/article/top-rated-mystery-nano-banana-ai-model-rolls-out-to-gemini-as-google-deepmind-claims-responsibility/)[web:2]
+- [Official Announcement](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/) — Major upgrade info.[web:1]
+- [Axios: The Viral "Nano Banana" Model](https://www.axios.com/2025/08/26/nano-banana-google-ai-images)[web:5]
 
 ---
+
+## 📰 Articles & Blog Posts
+
+- [Nano-Banana: Emergence of a Mystery Model](https://flux-ai.io/blog/detail/Nano-Banana-The-Mysterious-Image-Generative-AI-Making-Waves-fa127a809dfe/)[web:7]
+- [FluxAI Blog: Redefining Creativity](https://flux-ai.io/blog/detail/Introducing-Google-Nano-Banana-The-Mysterious-AI-Image-Generator-Redefining-Creativity-2f903e07e58d/)
+- [AI Top 100: Benchmarks](https://www.aitop100.cn/infomation/details/28289.html)
+- [PhotoGrid: Social & Design Apps](https://www.photogrid.app/blog/tw/nano-banana/)
+- [Sohu Tech: Coverage in Chinese](https://www.sohu.com/a/929128410_211762)
+- [Ars Technica: Consistency Breakthroughs](https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/)[web:4]
+
+---
+
+## 🎨 Demos & Platforms
+
+- [LM Arena (Leaderboard)](https://lmarena.ai/) — First place ever launched, community feedback.[web:7][web:8]
+- [Gemini Web App](https://gemini.google.com/) — Try image generation & editing free.[web:5]
+- [Free Online Generator](https://bylo.ai/features/nano-banana-ai)
+- [Replicate Nano-Banana Playground](https://replicate.com/google/nano-banana)[web:6]
+- [YouTube Full Live Demo & Tutorial](https://www.youtube.com/watch?v=qPUreQxB8zQ)[web:9]
+
+---
+
+## 🧪 Features Breakdown
+
+- **Identity Consistency** – Retains faces, clothes, and poses through multi-step edits.[web:6][web:4][web:9]
+- **Scene Realism** – Lighting, shadows, and background blend seamlessly.[web:4][web:6]
+- **Speed** – Edits in seconds, creative workflow ready.[web:5][web:9]
+- **Multi-image Fusion** – Combine multiple images intelligently.[web:6]
+- **Conversational Prompts** – Natural language editing without manual tools.[web:2][web:6]
+- **Visual Reasoning** – Semantic edits, interpretation of diagrams and instructions.[web:6]
+- **SynthID Watermarking** – All images have an invisible AI-generated marker for transparency.[web:6]
+- **API Access** – Available via Google AI Studio, Vertex AI, and Gemini API.[web:6]
+
+---
+
+## 📖 Tutorials & Notebooks
+
+- [Nano-Banana (Gemini 2.5 Flash Image) YouTube Full Tutorial](https://www.youtube.com/watch?v=qPUreQxB8zQ) — 27 examples, Qwen model comparison.[web:9]
+- [Community Guide: How to Access LM Arena](https://www.youtube.com/watch?v=o4KCa4P34tU)[web:8]
+- [Google AI Studio (Gemini Prompt Playground)](https://aistudio.google.com/prompts/new_chat)
+
+---
+
+## ⚠️ Notes & Warnings
+
+- Some unofficial sites use the “Nano-Banana” name — only use trusted platforms like Gemini and LM Arena.[web:4][web:2][web:7]
+- Architecture, training, and technical details remain proprietary; further transparency is awaited.[web:6][web:7]
+
+---
+
+## 🔗 Related AI Projects
+
+- [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+- [Awesome MidJourney Resources](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+
+---
+
+## 💡 More Awesome Resources
+
+
 
 ## 🧪 Research & Technical Notes
 

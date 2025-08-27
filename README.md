@@ -1,73 +1,69 @@
+# Awesome Nano-Banana 🍌✨  
+A curated list of resources, articles, and tools related to **Google's Nano-Banana** model — the mysterious AI that first appeared in **LM Arena** battles and is now officially part of **Google Gemini** as *Gemini-2.5 Flash Image*.  
 
+> Contributions welcome! Feel free to open issues or PRs to expand this list.
 
-Awesome Nano-Banana 
+---
 
-A curated list of resources, papers, blog posts, and demos related to Google’s Nano-Banana AI image generation & editing model.
-Contributions welcome! 🎉
+## 📖 Articles & Blog Posts
 
-⸻
+- [Axios — Google debuts Nano-Banana as Gemini 2.5 Flash Image](https://www.axios.com/2025/08/26/nano-banana-google-ai-images?utm_source=chatgpt.com)  
+- [DataLearner — From mystery to Gemini: The story of Nano-Banana](https://www.datalearner.com/blog/1051756024909373?utm_source=chatgpt.com)  
+- [AI-Bot.cn — Why Nano-Banana stunned the LM Arena](https://ai-bot.cn/nano-banana/?utm_source=chatgpt.com)  
+- [Flux AI Blog — Introducing Google Nano-Banana: Redefining creativity](https://flux-ai.io/tw/blog/detail/Introducing-Google-Nano-Banana-The-Mysterious-AI-Image-Generator-Redefining-Creativity-2f903e07e58d/?utm_source=chatgpt.com)  
+- [PhotoGrid Blog — Nano-Banana for social media and creative workflows](https://www.photogrid.app/blog/tw/nano-banana/?utm_source=chatgpt.com)  
+- [AI Facefy — Meet Google Nano-Banana: 2025’s most talked about AI generator](https://aifacefy.com/cn/blog/detail/Meet-Google-Nano-Banana-2025-s-Most-Talked-About-AI-Image-Generator-2d1594bbae54/?utm_source=chatgpt.com)  
+- [Sohu Tech — Google’s Nano-Banana model explained](https://www.sohu.com/a/929128410_211762?utm_source=chatgpt.com)  
 
-🌟 Introduction
+---
 
-Nano-Banana is a cutting-edge AI model developed by Google (as part of the Gemini 2.5 Flash Image system).
-It is designed for image generation and editing with unprecedented consistency, realism, and speed.
+## 🧪 Research & Technical Notes
 
-Originally appearing anonymously on the LM Arena leaderboard, Nano-Banana stunned the community with its identity-preserving edits and natural scene composition, quickly sparking speculation about its origin.
+- [LM Arena](https://lmarena.ai/) — anonymous benchmark arena where Nano-Banana first appeared.  
+- [Gemini official site](https://gemini.google.com/) — access Google Gemini, now with **Gemini 2.5 Flash Image**.  
+- [Google DeepMind](https://deepmind.google/) — rumored to be involved in Nano-Banana’s development.  
+- [Gemini Blog (Google AI)](https://blog.google/technology/ai/) — official AI updates from Google.  
 
-⸻
+---
 
-📚 Official Resources
-	•	Google Gemini Blog – Official Gemini updates from Google.
-	•	Axios: Google confirms Nano-Banana – News coverage of Nano-Banana’s release.
-	•	Gemini App – Try Nano-Banana inside Gemini (Web & Mobile).
+## 🎨 Example Use Cases
 
-⸻
+- **Image Editing**: Seamless background swaps, realistic object addition.  
+- **Character Consistency**: Maintaining identity across multiple poses and frames.  
+- **Creative Workflows**: Generating storyboards, concept art, or marketing visuals.  
 
-📰 Articles & Blog Posts
-	•	Nano-Banana Emerges as a Mystery Model – Early community discovery.
-	•	Flux AI Blog: Redefining Creativity – Deep-dive into its editing capabilities.
-	•	AI Top 100: Performance Review – Benchmarks and analysis.
-	•	PhotoGrid: Applications for Creators – Use cases in social media and design.
-	•	Sohu Tech Report – Local coverage in Chinese.
+See demo comparisons on:  
+- [DataLearner Gallery](https://www.datalearner.com/blog/1051756024909373?utm_source=chatgpt.com)  
+- [PhotoGrid Nano-Banana Examples](https://www.photogrid.app/blog/tw/nano-banana/?utm_source=chatgpt.com)  
 
-⸻
+---
 
-🎨 Demos & Platforms
-	•	LM Arena (Leaderboard) – Where Nano-Banana first appeared.
-	•	Gemini Web App – Access Nano-Banana for editing & generation.
-	•	AI Facefy Blog – Showcase of generated outputs.
+## ⚠️ Safety & Notes
 
-⸻
+- Some third-party websites claiming to provide “Nano-Banana access” are **unverified**. Use **Google Gemini** official channels.  
+- Keep in mind that technical details (architecture, dataset, training methods) are **not public** as of 2025.  
 
-🧪 Features Breakdown
-	•	Identity Consistency – Preserves faces, clothes, and poses across edits.
-	•	Scene Realism – Lighting, shadows, and background blend seamlessly.
-	•	Speed – Edits rendered in seconds, ideal for creative workflows.
-	•	Integration – Fully available via Gemini, unlike many “mystery models.”
+---
 
-⸻
+## 📌 Related Awesome Lists
 
-⚠️ Notes & Warnings
-	•	Several unofficial websites use the Nano-Banana name, but they may not be safe. Always use Google Gemini or official demo platforms.
-	•	Details about its architecture and training remain undisclosed.
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)  
+- [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)  
+- [Awesome AI Art](https://github.com/halostatue/awesome-ai-art)  
 
-⸻
+---
 
-🔗 Related AI Projects
-	•	Awesome Stable Diffusion
-	•	Awesome MidJourney Resources
-	•	Awesome Generative AI
+## 🌟 Contribute
 
-⸻
+Want to share new resources?  
+- Fork the repo  
+- Add your links under the right section  
+- Submit a PR 🚀  
 
-🤝 Contributing
+---
 
-Contributions are welcome! Please check the contribution guidelines.
-Add links, tools, or tutorials related to Nano-Banana by submitting a Pull Request.
+## License
 
-⸻
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
-📜 License
-
-This list is released under Creative Commons CC0 1.0 – do whatever you want with it.
-
+This list is released into the public domain.

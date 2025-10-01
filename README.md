@@ -40,6 +40,9 @@
 - [Free Online Generator](https://bylo.ai/features/nano-banana-ai)
 - [Replicate Nano-Banana Playground](https://replicate.com/google/nano-banana)[web:6]
 - [YouTube Full Live Demo & Tutorial](https://www.youtube.com/watch?v=qPUreQxB8zQ)[web:9]
+- [Nano Banana tools  Platform](https://nanobanananano.space/en/tools) —
+  AI-powered image editing tools: person removal, background replacement,
+  and more.
 
 ---
 
